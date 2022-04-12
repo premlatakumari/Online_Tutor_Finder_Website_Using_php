@@ -276,7 +276,8 @@ $list_check = new checkboxlist();
 								<select name="p_university">
 								<?php if($f_uni!="") echo '<option value="'.$f_uni.'">'.$f_uni.'</option>';  ?>
 							  <option value="None">None</option>
-							  <option value="Southeast University">Southeast University</option>
+							  <option value="Southeast University">Southeast University</option> 
+							  
 							  <option value="Brac University">Brac University</option>
 							  <option value="Dhaka Univesity">Dhaka Univesity</option>
 							</select>
